@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mughees605/socket.io/issues"
   },
-  "homepage": "https://github.com/Mughees605/socket.io#readme"
+  "homepage": "https://github.com/Mughees605/socket.io#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2"
+  }
 }
