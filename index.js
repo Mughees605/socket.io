@@ -1,10 +1,6 @@
 import {router} from "./src/routes/routes";
 import express from "express"
 import bodyParser from "body-parser";
-import mongoose from "mongoose";
-import session from "express-session";
-import cookieParser from 'cookie-parser';
-import cors from 'cors';
 const app = express();
 
 const port = process.env.PORT || 4000;
